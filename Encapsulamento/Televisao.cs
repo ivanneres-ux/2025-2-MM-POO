@@ -1,8 +1,3 @@
-
-DUANE SARDINHA DOMINGUES DE BARROS
-20:12 (há 0 minuto)
-para mim
-
 public class Televisao
 {
    private const int VOL_MAX = 100;
